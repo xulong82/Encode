@@ -1,0 +1,434 @@
+>Mouse|chr1:52136377-52136981 | element 1 | negative 
+>Mouse|chr15:52166424-52166999 | element 2 | negative 
+>Mouse|chr12:112380949-112381824 | element 3 | positive  | neural tube[4/4] | hindbrain (rhombencephalon)[4/4] | forebrain[4/4]
+>Mouse|chr3:137446183-137449401 | element 4 | positive  | heart[3/4]
+>Mouse|chr13:106327355-106329352 | element 5 | positive  | forebrain[6/8]
+>Mouse|chr12:106177540-106178279 | element 6 | negative 
+>Mouse|chr14:61623576-61624578 | element 7 | positive  | forebrain[6/6]
+>Mouse|chr4:139774060-139775558 | element 8 | negative 
+>Mouse|chr8:47855925-47857600 | element 9 | positive  | eye[3/4]
+>Mouse|chr4:89093102-89095795 | element 10 | positive  | heart[4/7]
+>Mouse|chr14:61623904-61624091 | element 11 | negative 
+>Mouse|chr12:100576830-100579481 | element 12 | positive  | neural tube[4/6]
+>Mouse|chr15:13321649-13325391 | element 13 | positive  | hindbrain (rhombencephalon)[6/7] | forebrain[6/7] | limb[4/7] | nose[4/7]
+>Mouse|chr13:59191545-59195519 | element 14 | positive  | hindbrain (rhombencephalon)[5/6] | midbrain (mesencephalon)[5/6] | forebrain[5/6]
+>Mouse|chr18:33711719-33714035 | element 15 | positive  | forebrain[3/11]
+>Mouse|chr12:45503506-45506757 | element 16 | positive  | midbrain (mesencephalon)[10/13] | forebrain[10/13]
+>Mouse|chr15:99637507-99640125 | element 17 | positive  | forebrain[4/8]
+>Mouse|chr18:75661251-75665484 | element 18 | positive  | midbrain (mesencephalon)[3/4] | heart[4/4]
+>Mouse|chr3:87942027-87944987 | element 19 | negative 
+>Mouse|chr6:141243328-141244503 | element 20 | negative 
+>Mouse|chr8:87252801-87256604 | element 21 | positive  | midbrain (mesencephalon)[6/11] | heart[6/11]
+>Mouse|chr2:167667874-167671154 | element 22 | negative 
+>Mouse|chr4:134761760-134763122 | element 23 | negative 
+>Mouse|chr1:183186068-183189794 | element 24 | negative 
+>Mouse|chr8:83024964-83025814 | element 25 | negative 
+>Mouse|chr17:11278590-11281146 | element 26 | negative 
+>Mouse|chr2:4260704-4262503 | element 28 | positive  | limb[7/11] | branchial arch[7/11] | nose[7/11] | facial mesenchyme[7/11] | other[7/11]
+>Mouse|chr9:61448651-61451473 | element 29 | positive  | forebrain[3/3] | limb[3/3] | trigeminal V (ganglion, cranial)[3/3] | nose[3/3] | facial mesenchyme[3/3]
+>Mouse|chr2:11986812-11989646 | element 30 | positive  | forebrain[9/10] | branchial arch[9/10] | facial mesenchyme[9/10]
+>Mouse|chr15:36981927-36984792 | element 31 | negative 
+>Mouse|chr18:83057021-83060252 | element 33 | negative 
+>Mouse|chr5:78712411-78714500 | element 34 | positive  | branchial arch[5/11]
+>Mouse|chr2:174682050-174686081 | element 38 | positive  | neural tube[3/5] | hindbrain (rhombencephalon)[3/5] | facial mesenchyme[3/5]
+>Mouse|chr5:93560103-93564752 | element 39 | positive  | nose[14/14]
+>Mouse|chr8:105601137-105602891 | element 40 | positive  | branchial arch[4/5] | heart[5/5]
+>Mouse|chr13:3740315-3743791 | element 41 | positive  | branchial arch[9/9]
+>Mouse|chr5:19584950-19588606 | element 43 | positive  | branchial arch[9/11] | facial mesenchyme[8/11]
+>Mouse|chr13:112743108-112745779 | element 45 | positive  | forebrain[10/15] | limb[14/15]
+>Mouse|chr10:24213069-24214748 | element 46 | negative 
+>Mouse|chr7:149754817-149759817 | element 47 | positive  | somite[8/12] | limb[9/12] | branchial arch[8/12] | liver[7/12]
+>Mouse|chr6:52392611-52394523 | element 48 | positive  | limb[5/5]
+>Mouse|chr5:5007239-5009906 | element 49 | positive  | midbrain (mesencephalon)[3/5]
+>Mouse|chr7:149737471-149740718 | element 50 | positive  | somite[10/14] | limb[14/14] | nose[11/14] | heart[13/14] | other[8/14]
+>Mouse|chr11:53870165-53872917 | element 51 | positive  | hindbrain (rhombencephalon)[6/6] | midbrain (mesencephalon)[3/6] | forebrain[6/6]
+>Mouse|chr10:85756972-85760162 | element 52 | positive  | other[5/8]
+>Mouse|chr9:45926332-45929629 | element 54 | negative 
+>Mouse|chr2:71256536-71260128 | element 55 | positive  | forebrain[5/5]
+>Mouse|chr4:82561277-82564175 | element 56 | positive  | forebrain[4/5]
+>Mouse|chr11:26389088-26391733 | element 57 | positive  | limb[5/8] | branchial arch[5/8] | eye[4/8] | tail[4/8]
+>Mouse|chr2:154875826-154877830 | element 59 | negative 
+>Mouse|chr6:98062388-98064826 | element 60 | positive  | branchial arch[6/6]
+>Mouse|chr8:102074407-102075413 | element 61 | negative 
+>Mouse|chr11:62796906-62800452 | element 62 | positive  | neural tube[3/5] | hindbrain (rhombencephalon)[5/5] | dorsal root ganglion[3/5]
+>Mouse|chr19:53790059-53791936 | element 64 | positive  | heart[6/6]
+>Mouse|chr10:58905508-58907081 | element 65 | negative 
+>Mouse|chr11:65022357-65023959 | element 67 | positive  | heart[5/6]
+>Mouse|chr13:73435722-73437761 | element 68 | positive  | heart[5/6]
+>Mouse|chr9:63892591-63894756 | element 69 | positive  | heart[17/17]
+>Mouse|chr8:35014293-35017541 | element 70 | positive  | heart[6/6]
+>Mouse|chr8:97950408-97952214 | element 71 | positive  | heart[9/9]
+>Mouse|chr3:151966087-151968814 | element 72 | positive  | somite[4/6] | heart[5/6]
+>Mouse|chr15:62897257-62899166 | element 73 | positive  | heart[7/8]
+>Mouse|chr10:56698914-56701622 | element 74 | positive  | heart[4/6]
+>Mouse|chr2:172687463-172689668 | element 75 | positive  | heart[8/8]
+>Mouse|chr5:122542227-122544777 | element 77 | positive  | heart[6/6]
+>Mouse|chr12:84173382-84175400 | element 78 | positive  | midbrain (mesencephalon)[6/8] | heart[6/8] | facial mesenchyme[7/8]
+>Mouse|chr7:119441339-119442936 | element 79 | positive  | heart[7/7]
+>Mouse|chr4:131631431-131635142 | element 80 | positive  | blood vessels[10/10]
+>Mouse|chr17:29570606-29572303 | element 81 | positive  | heart[3/7]
+>Mouse|chr17:73371503-73373491 | element 82 | positive  | heart[3/3]
+>Mouse|chr15:83469258-83471148 | element 84 | positive  | limb[7/10] | branchial arch[10/10] | heart[6/10] | other[6/10]
+>Mouse|chr11:65462408-65465145 | element 85 | positive  | heart[7/7]
+>Mouse|chr3:20044305-20045900 | element 86 | positive  | heart[4/4]
+>Mouse|chr10:44948419-44951592 | element 87 | positive  | limb[4/7] | heart[7/7] | other[4/7]
+>Mouse|chr1:59009748-59013257 | element 88 | negative 
+>Mouse|chr17:12982583-12985936 | element 89 | positive  | heart[6/10] | blood vessels[8/10]
+>Mouse|chr17:35856798-35858730 | element 90 | positive  | heart[6/8]
+>Mouse|chr15:84047967-84051143 | element 91 | positive  | branchial arch[5/5]
+>Mouse|chr2:172860299-172862341 | element 92 | positive  | heart[5/11]
+>Mouse|chr3:101865977-101867575 | element 93 | negative 
+>Mouse|chr6:122342623-122346341 | element 94 | positive  | limb[3/5] | other[3/5]
+>Mouse|chr11:32150452-32152344 | element 95 | negative 
+>Mouse|chr3:100241120-100244013 | element 97 | negative 
+>Mouse|chr8:122894800-122896576 | element 99 | positive  | heart[8/10]
+>Mouse|chr9:66888473-66891328 | element 100 | positive  | heart[6/9]
+>Mouse|chr11:32145270-32146411 | element 101 | positive  | heart[9/12] | blood vessels[7/12]
+>Mouse|chr11:46014860-46016769 | element 102 | positive  | branchial arch[5/8] | heart[5/8] | facial mesenchyme[7/8] | other[8/8]
+>Mouse|chr12:12185902-12186724 | element 103 | positive  | heart[4/7]
+>Mouse|chr15:66655863-66658724 | element 104 | positive  | heart[7/7] | melanocytes[5/7] | liver[3/7]
+>Mouse|chr15:66973595-66975198 | element 105 | negative 
+>Mouse|chr15:76867070-76869194 | element 106 | positive  | somite[4/6] | heart[5/6]
+>Mouse|chr16:92427698-92430376 | element 107 | positive  | heart[7/8]
+>Mouse|chr17:7472842-7474317 | element 108 | positive  | nose[3/4] | heart[4/4] | liver[3/4]
+>Mouse|chr18:57056572-57058645 | element 109 | positive  | heart[3/11]
+>Mouse|chr1:135445890-135447463 | element 112 | negative 
+>Mouse|chr6:72165180-72168822 | element 123 | positive  | neural tube[9/11] | limb[7/11] | nose[7/11] | heart[5/11]
+>Mouse|chr11:86399698-86401331 | element 127 | positive  | heart[3/6]
+>Mouse|chr4:13758569-13761157 | element 129 | negative 
+>Mouse|chr9:24691516-24694512 | element 130 | positive  | heart[7/10] | other[7/10]
+>Mouse|chr5:132705022-132706230 | element 131 | positive  | heart[6/7] | ear[6/7]
+>Mouse|chr13:46666689-46669718 | element 132 | positive  | somite[6/7] | midbrain (mesencephalon)[6/7] | branchial arch[5/7] | eye[6/7] | heart[7/7]
+>Mouse|chr11:57464180-57466246 | element 133 | negative 
+>Mouse|chr1:185865149-185866641 | element 134 | positive  | eye[5/10] | heart[8/10]
+>Mouse|chr5:32368077-32369545 | element 135 | negative 
+>Mouse|chr8:28216799-28218903 | element 136 | positive  | heart[7/10] | other[6/10] | blood vessels[4/10]
+>Mouse|chr18:11371312-11374453 | element 138 | positive  | heart[8/8]
+>Mouse|chr10:20204708-20208573 | element 140 | positive  | other[4/6]
+>Mouse|chr11:95217123-95219510 | element 142 | negative 
+>Mouse|chr3:104400858-104404522 | element 143 | positive  | heart[3/3]
+>Mouse|chr5:120585787-120586943 | element 144 | positive  | midbrain (mesencephalon)[6/8]
+>Mouse|chr4:120064208-120066551 | element 145 | positive  | heart[8/8] | other[7/8]
+>Mouse|chr11:77235971-77237943 | element 146 | positive  | heart[9/9]
+>Mouse|chr8:127740943-127743751 | element 149 | positive  | limb[4/9] | branchial arch[3/9] | nose[5/9]
+>Mouse|chr18:80526858-80529100 | element 152 | positive  | heart[4/4]
+>Mouse|chr1:155880986-155881987 | element 153 | negative 
+>Mouse|chr11:11856745-11857746 | element 154 | positive  | heart[4/9]
+>Mouse|chr17:12396817-12398613 | element 156 | positive  | other[3/4]
+>Mouse|chr2:38390575-38392603 | element 160 | negative 
+>Mouse|chr2:152643108-152643933 | element 161 | negative 
+>Mouse|chr3:60406133-60407586 | element 163 | negative 
+>Mouse|chr3:100286276-100286861 | element 164 | negative 
+>Mouse|chr4:118691756-118692681 | element 165 | positive  | eye[4/5] | heart[4/5]
+>Mouse|chr6:120124252-120125226 | element 168 | negative 
+>Mouse|chr7:87589954-87591386 | element 169 | positive  | other[4/5]
+>Mouse|chr7:87933824-87935070 | element 170 | positive  | heart[4/5]
+>Mouse|chr8:80511214-80513034 | element 172 | positive  | heart[8/8]
+>Mouse|chr18:78532521-78533281 | element 173 | positive  | midbrain (mesencephalon)[4/7] | other[4/7]
+>Mouse|chr7:132907561-132908867 | element 174 | positive  | heart[7/10]
+>Mouse|chr11:11861859-11862624 | element 178 | positive  | heart[4/10]
+>Mouse|chr13:34919435-34920768 | element 180 | positive  | other[5/6]
+>Mouse|chr14:69922497-69923744 | element 181 | negative 
+>Mouse|chr2:113949124-113949618 | element 182 | positive  | heart[4/4]
+>Mouse|chr7:150297965-150298873 | element 183 | positive  | heart[4/6]
+>Mouse|chr5:93056779-93057403 | element 187 | positive  | heart[5/6]
+>Mouse|chr9:70682343-70683041 | element 190 | positive  | heart[4/8]
+>Mouse|chr15:79153984-79154542 | element 191 | negative 
+>Mouse|chr13:41738581-41740052 | element 192 | positive  | somite[6/7] | heart[6/7]
+>Mouse|chr13:43291289-43292448 | element 193 | negative 
+>Mouse|chr2:31983250-31984106 | element 194 | positive  | midbrain (mesencephalon)[6/9] | heart[6/9]
+>Mouse|chr19:46692988-46694228 | element 195 | negative 
+>Mouse|chr8:122815912-122818693 | element 196 | positive  | heart[4/6]
+>Mouse|chr10:80236556-80237744 | element 200 | positive  | heart[7/8]
+>Mouse|chr11:57775642-57776645 | element 201 | negative 
+>Mouse|chr9:62262456-62263484 | element 210 | positive  | nose[3/4]
+>Mouse|chr9:62956042-62958045 | element 211 | negative 
+>Mouse|chr11:68436977-68437676 | element 213 | positive  | somite[4/4] | heart[4/4]
+>Mouse|chr14:69935881-69937057 | element 215 | negative 
+>Mouse|chr18:76381562-76382380 | element 218 | negative 
+>Mouse|chr14:26344109-26346044 | element 223 | negative 
+>Mouse|chr11:45618819-45619547 | element 224 | negative 
+>Mouse|chr10:43465944-43466484 | element 228 | positive  | dorsal root ganglion[3/5]
+>Mouse|chr13:42353470-42354420 | element 235 | positive  | heart[5/6]
+>Mouse|chr8:80525507-80526411 | element 236 | negative 
+>Mouse|chr2:32763799-32765044 | element 238 | negative 
+>Mouse|chr8:123694003-123695039 | element 241 | positive  | branchial arch[8/11] | heart[5/11]
+>Mouse|chr6:99201421-99202233 | element 242 | negative 
+>Mouse|chr14:63681001-63681903 | element 244 | positive  | neural tube[4/13] | midbrain (mesencephalon)[6/13] | heart[10/13]
+>Mouse|chr14:63986626-63988682 | element 245 | positive  | heart[6/6]
+>Mouse|chr6:117229227-117230427 | element 247 | positive  | other[7/13]
+>Mouse|chr3:98658974-98659553 | element 250 | negative 
+>Mouse|chr9:47184595-47185443 | element 251 | positive  | heart[4/4]
+>Mouse|chr17:43466537-43467169 | element 252 | negative 
+>Mouse|chr5:38900507-38901138 | element 253 | positive  | heart[4/4]
+>Mouse|chr2:115788221-115789276 | element 255 | negative 
+>Mouse|chr6:136415765-136418198 | element 256 | negative 
+>Mouse|chr18:75662017-75663321 | element 257 | positive  | midbrain (mesencephalon)[6/8] | heart[8/8]
+>Mouse|chr12:86795350-86797239 | element 260 | positive  | heart[5/6]
+>Mouse|chr4:57858433-57860639 | element 261 | positive  | blood vessels[5/8]
+>Mouse|chr7:111007150-111008395 | element 263 | negative 
+>Mouse|chr11:87235852-87237215 | element 264 | positive  | neural tube[10/15] | heart[4/15]
+>Mouse|chr13:28809515-28811310 | element 265 | positive  | neural tube[7/8] | blood vessels[3/8]
+>Mouse|chr19:21348574-21349333 | element 269 | positive  | eye[5/5] | heart[3/5] | other[3/5]
+>Mouse|chr2:17967860-17968682 | element 270 | negative 
+>Mouse|chr2:152224827-152225462 | element 271 | positive  | midbrain (mesencephalon)[7/10]
+>Mouse|chr1:92142824-92144268 | element 275 | negative 
+>Mouse|chr17:49830106-49831273 | element 276 | positive  | heart[12/15] | other[4/15]
+>Mouse|chr4:66555426-66556324 | element 279 | positive  | facial mesenchyme[8/8]
+>Mouse|chr2:59666830-59667418 | element 282 | positive  | heart[4/5]
+>Mouse|chr9:62979394-62981242 | element 285 | negative 
+>Mouse|chr2:172256034-172256864 | element 286 | negative 
+>Mouse|chr7:16990095-16991760 | element 289 | negative 
+>Mouse|chr18:32701598-32702895 | element 291 | positive  | heart[6/7]
+>Mouse|chr12:53329835-53330413 | element 292 | positive  | heart[4/8]
+>Mouse|chr12:90222342-90223370 | element 296 | positive  | midbrain (mesencephalon)[10/11] | heart[4/11]
+>Mouse|chr2:145714047-145714492 | element 300 | negative 
+>Mouse|chr9:103581439-103581987 | element 303 | positive  | heart[3/6]
+>Mouse|chr18:68218430-68219367 | element 304 | positive  | heart[4/6]
+>Mouse|chr5:115716995-115717570 | element 307 | negative 
+>Mouse|chr4:94984220-94985425 | element 308 | positive  | heart[4/7]
+>Mouse|chr3:145627063-145627893 | element 311 | positive  | midbrain (mesencephalon)[4/7]
+>Mouse|chr10:96170954-96171491 | element 313 | positive  | heart[5/5]
+>Mouse|chr1:92185511-92186963 | element 315 | negative 
+>Mouse|chr4:141092676-141093774 | element 316 | negative 
+>Mouse|chr4:154608788-154610276 | element 318 | positive  | heart[6/6]
+>Mouse|chr2:30509784-30511968 | element 320 | negative 
+>Mouse|chr16:18554261-18557730 | element 321 | positive  | limb[4/5] | eye[4/5] | heart[4/5] | facial mesenchyme[4/5]
+>Mouse|chr19:47982949-47985086 | element 324 | positive  | nose[4/11]
+>Mouse|chr5:113580972-113583248 | element 329 | positive  | limb[4/5] | other[3/5]
+>Mouse|chr4:107274653-107277218 | element 330 | negative 
+>Mouse|chr4:132672507-132674339 | element 334 | negative 
+>Mouse|chr8:123806947-123808321 | element 335 | negative 
+>Mouse|chr12:88151548-88154251 | element 336 | negative 
+>Mouse|chr8:124189098-124190018 | element 338 | negative 
+>Mouse|chr11:116180317-116181309 | element 339 | negative 
+>Mouse|chr9:106285326-106287994 | element 342 | negative 
+>Mouse|chr2:166178365-166180321 | element 343 | negative 
+>Mouse|chr2:153386026-153387676 | element 346 | negative 
+>Mouse|chr9:106319282-106321124 | element 362 | negative 
+>Mouse|chr3:52205048-52206052 | element 366 | negative 
+>Mouse|chr2:167395381-167396743 | element 368 | negative 
+>Mouse|chr5:120271992-120274249 | element 370 | negative 
+>Mouse|chr4:89054899-89060474 | element 371 | negative 
+>Mouse|chr4:89059942-89066758 | element 372 | negative 
+>Mouse|chr4:89066522-89073392 | element 373 | negative 
+>Mouse|chr4:89072503-89077616 | element 374 | negative 
+>Mouse|chr4:89077296-89083848 | element 375 | negative 
+>Mouse|chr4:89083402-89087829 | element 376 | negative 
+>Mouse|chr4:89092028-89098985 | element 377 | negative 
+>Mouse|chr4:89098407-89106169 | element 378 | negative 
+>Mouse|chr4:89105875-89113247 | element 379 | negative 
+>Mouse|chr4:89112773-89119591 | element 380 | negative 
+>Mouse|chr4:89118823-89122232 | element 381 | negative 
+>Mouse|chr16:15054543-15055683 | element 382 | negative 
+>Mouse|chr16:15194506-15196209 | element 383 | positive  | branchial arch[5/6] | nose[5/6] | facial mesenchyme[5/6] | other[5/6]
+>Mouse|chr14:46563515-46564802 | element 384 | positive  | neural tube[5/9] | limb[9/9] | branchial arch[8/9] | nose[8/9] | facial mesenchyme[6/9]
+>Mouse|chr14:46843672-46844634 | element 385 | negative 
+>Mouse|chr14:46867125-46868803 | element 386 | negative 
+>Mouse|chr14:47230345-47231452 | element 387 | positive  | branchial arch[11/12] | nose[11/12] | facial mesenchyme[11/12]
+>Mouse|chr5:19999592-20000707 | element 389 | positive  | ear[6/8]
+>Mouse|chr5:20455841-20456804 | element 390 | negative 
+>Mouse|chr5:21001718-21003173 | element 391 | negative 
+>Mouse|chr5:24236372-24237661 | element 394 | positive  | midbrain (mesencephalon)[6/11] | eye[5/11]
+>Mouse|chr5:93426293-93427320 | element 397 | positive  | limb[12/13] | blood vessels[12/13]
+>Mouse|chr6:4433463-4435322 | element 398 | positive  | limb[5/6]
+>Mouse|chr6:4438993-4440635 | element 399 | negative 
+>Mouse|chr6:4503537-4505066 | element 400 | positive  | limb[5/6] | branchial arch[4/6] | nose[5/6] | facial mesenchyme[5/6]
+>Mouse|chr6:50760699-50761820 | element 401 | negative 
+>Mouse|chr6:50771118-50773588 | element 402 | positive  | neural tube[8/12] | hindbrain (rhombencephalon)[10/12] | midbrain (mesencephalon)[12/12] | forebrain[12/12] | branchial arch[6/12] | other[8/12]
+>Mouse|chr6:50874547-50876236 | element 403 | positive  | branchial arch[10/11]
+>Mouse|chr6:50906955-50908237 | element 404 | positive  | branchial arch[8/9]
+>Mouse|chr6:50931070-50932329 | element 405 | positive  | branchial arch[4/8] | trigeminal V (ganglion, cranial)[5/8] | facial mesenchyme[6/8] | other[4/8]
+>Mouse|chr6:50933966-50934809 | element 406 | positive  | limb[5/5] | facial mesenchyme[5/5]
+>Mouse|chr6:51001771-51003272 | element 407 | positive  | limb[5/8]
+>Mouse|chr6:51054234-51055194 | element 408 | negative 
+>Mouse|chr6:51122426-51123472 | element 409 | negative 
+>Mouse|chr6:51283773-51284475 | element 410 | negative 
+>Mouse|chr6:51311842-51312695 | element 411 | negative 
+>Mouse|chr6:51807234-51808613 | element 412 | positive  | neural tube[4/11]
+>Mouse|chr14:22672416-22672907 | element 413 | negative 
+>Mouse|chr14:22932437-22935173 | element 414 | positive  | midbrain (mesencephalon)[17/17] | forebrain[8/17] | limb[15/17] | branchial arch[17/17] | eye[17/17]
+>Mouse|chr14:24305235-24305824 | element 415 | negative 
+>Mouse|chr14:24313046-24314033 | element 416 | negative 
+>Mouse|chr14:24339368-24340820 | element 417 | positive  | branchial arch[4/6]
+>Mouse|chr2:4218373-4222502 | element 418 | positive  | other[11/15]
+>Mouse|chr2:4269384-4270399 | element 419 | positive  | forebrain[6/12]
+>Mouse|chr2:4282954-4283735 | element 420 | positive  | branchial arch[3/4]
+>Mouse|chr2:4477190-4478921 | element 422 | positive  | forebrain[4/7] | limb[4/7]
+>Mouse|chr2:4508631-4509808 | element 423 | positive  | limb[11/12] | branchial arch[11/12] | nose[11/12] | facial mesenchyme[11/12]
+>Mouse|chr2:4803690-4804809 | element 424 | negative 
+>Mouse|chr5:38209891-38210884 | element 425 | positive  | neural tube[5/11]
+>Mouse|chr5:38216908-38220459 | element 426 | positive  | hindbrain (rhombencephalon)[7/9] | somite[7/9] | midbrain (mesencephalon)[9/9] | limb[9/9] | branchial arch[7/9] | eye[5/9] | nose[9/9] | genital tubercle[5/9] | facial mesenchyme[8/9] | ear[3/9]
+>Mouse|chr5:38292345-38293732 | element 427 | positive  | nose[4/4] | facial mesenchyme[4/4]
+>Mouse|chr5:38308981-38309833 | element 428 | positive  | limb[4/5] | branchial arch[4/5] | genital tubercle[4/5] | facial mesenchyme[4/5]
+>Mouse|chr5:38358862-38360435 | element 429 | positive  | limb[6/6] | branchial arch[6/6] | genital tubercle[6/6] | facial mesenchyme[6/6]
+>Mouse|chr1:194615787-194617278 | element 430 | negative 
+>Mouse|chr1:194677834-194678651 | element 433 | negative 
+>Mouse|chr3:121656460-121657309 | element 434 | negative 
+>Mouse|chr3:121750389-121752165 | element 435 | positive  | forebrain[14/14] | nose[14/14] | facial mesenchyme[14/14]
+>Mouse|chr3:121995833-121997185 | element 436 | negative 
+>Mouse|chr11:87994050-87995154 | element 438 | negative 
+>Mouse|chr11:88087581-88089577 | element 439 | positive  | neural tube[12/19] | hindbrain (rhombencephalon)[11/19] | midbrain (mesencephalon)[12/19] | eye[6/19]
+>Mouse|chr11:88341352-88342981 | element 440 | negative 
+>Mouse|chr11:88368293-88369318 | element 441 | negative 
+>Mouse|chr19:58446412-58447552 | element 445 | positive  | limb[5/7] | eye[7/7] | facial mesenchyme[7/7]
+>Mouse|chr19:59341618-59342768 | element 447 | positive  | midbrain (mesencephalon)[10/12]
+>Mouse|chr19:59497704-59500060 | element 448 | positive  | limb[5/5] | nose[5/5] | facial mesenchyme[5/5]
+>Mouse|chr19:60091345-60092740 | element 449 | positive  | forebrain[3/5] | limb[3/5]
+>Mouse|chr6:143245793-143246980 | element 450 | negative 
+>Mouse|chr6:143385859-143387546 | element 451 | positive  | neural tube[6/12] | limb[8/12]
+>Mouse|chr6:144893162-144894534 | element 456 | negative 
+>Mouse|chr15:62734249-62735455 | element 457 | positive  | neural tube[4/7]
+>Mouse|chr15:63025492-63026343 | element 458 | positive  | limb[7/8] | branchial arch[7/8] | other[7/8]
+>Mouse|chr13:119304645-119305832 | element 463 | positive  | branchial arch[6/9]
+>Mouse|chr16:15084685-15085801 | element 466 | positive  | hindbrain (rhombencephalon)[5/10] | limb[10/10] | branchial arch[6/10] | nose[6/10] | tail[8/10]
+>Mouse|chr16:15294563-15296139 | element 467 | positive  | limb[4/10]
+>Mouse|chr4:89087737-89092044 | element 468 | negative 
+>Mouse|chr4:89122026-89126774 | element 469 | negative 
+>Mouse|chr6:88984670-88986247 | element 471 | negative 
+>Mouse|chr3:51581966-51583093 | element 472 | negative 
+>Mouse|chr10:8688116-8688713 | element 482 | negative 
+>Mouse|chr4:139566833-139568188 | element 484 | negative 
+>Mouse|chr1:59397706-59398890 | element 489 | positive  | midbrain (mesencephalon)[8/9] | branchial arch[5/9] | eye[5/9]
+>Mouse|chr8:129060288-129061592 | element 495 | negative 
+>Mouse|chr12:55633596-55635928 | element 506 | negative 
+>Mouse|chr12:85516641-85517693 | element 529 | positive  | branchial arch[4/13] | other[4/13]
+>Mouse|chr18:76320040-76321618 | element 557 | negative 
+>Mouse|chr11:94742242-94745125 | element 568 | positive  | neural tube[3/5] | hindbrain (rhombencephalon)[5/5] | forebrain[4/5] | branchial arch[3/5]
+>Mouse|chr10:119989014-119990653 | element 569 | positive  | neural tube[6/11] | hindbrain (rhombencephalon)[6/11] | forebrain[7/11] | branchial arch[5/11] | genital tubercle[7/11]
+>Mouse|chr9:36860924-36862863 | element 577 | positive  | hindbrain (rhombencephalon)[6/7] | somite[6/7] | midbrain (mesencephalon)[6/7] | forebrain[6/7] | limb[6/7] | branchial arch[6/7] | heart[6/7]
+>Mouse|chr4:118911390-118912802 | element 586 | negative 
+>Mouse|chr8:26550404-26551929 | element 595 | positive  | limb[7/13] | facial mesenchyme[7/13]
+>Mouse|chr7:150339718-150341238 | element 603 | negative 
+>Mouse|chr13:119639280-119640197 | element 605 | positive  | trigeminal V (ganglion, cranial)[3/9] | facial mesenchyme[3/9]
+>Mouse|chr13:119682653-119683567 | element 606 | negative 
+>Mouse|chr7:136886955-136888502 | element 607 | positive  | neural tube[5/5]
+>Mouse|chr7:137203062-137204849 | element 608 | negative 
+>Mouse|chr8:26453161-26454807 | element 610 | positive  | limb[3/] | branchial arch[3/] | facial mesenchyme[4/] | other[4/]
+>Mouse|chr8:26653483-26656234 | element 612 | positive  | hindbrain (rhombencephalon)[9/11] | midbrain (mesencephalon)[9/11] | forebrain[11/11] | limb[10/11] | branchial arch[8/11] | eye[11/11] | nose[4/11]
+>Mouse|chr1:56343174-56344387 | element 613 | positive  | branchial arch[8/9] | ear[4/9]
+>Mouse|chr1:194610509-194611183 | element 617 | negative 
+>Mouse|chr1:194632518-194633287 | element 618 | negative 
+>Mouse|chr5:111327229-111327790 | element 619 | negative 
+>Mouse|chr5:112006325-112007316 | element 621 | positive  | branchial arch[4/11]
+>Mouse|chr5:112030282-112031759 | element 622 | positive  | branchial arch[9/11]
+>Mouse|chr13:48811819-48813379 | element 625 | negative 
+>Mouse|chr11:111424414-111425316 | element 627 | negative 
+>Mouse|chr11:111429836-111430753 | element 628 | positive  | branchial arch[4/8]
+>Mouse|chr11:111488425-111489423 | element 629 | negative 
+>Mouse|chr11:111508641-111510310 | element 630 | negative 
+>Mouse|chr11:111527365-111528791 | element 631 | negative 
+>Mouse|chr11:111642335-111643268 | element 632 | negative 
+>Mouse|chr11:111822416-111824278 | element 633 | negative 
+>Mouse|chr11:112273179-112274981 | element 634 | positive  | limb[9/10] | branchial arch[5/10]
+>Mouse|chr11:112641565-112642353 | element 635 | positive  | branchial arch[5/13]
+>Mouse|chr11:112874475-112876828 | element 636 | positive  | limb[6/9] | branchial arch[3/9] | nose[4/9]
+>Mouse|chr3:35001233-35002696 | element 639 | negative 
+>Mouse|chr3:35239328-35240939 | element 640 | negative 
+>Mouse|chr15:60989192-60990286 | element 641 | positive  | midbrain (mesencephalon)[5/10]
+>Mouse|chr15:60684551-60685842 | element 642 | positive  | midbrain (mesencephalon)[8/10] | dorsal root ganglion[4/10] | forebrain[5/10] | limb[3/10] | branchial arch[6/10] | eye[7/10] | nose[5/10] | heart[4/10] | facial mesenchyme[6/10] | ear[6/10]
+>Mouse|chr15:63506392-63507808 | element 643 | negative 
+>Mouse|chr2:160070229-160070893 | element 645 | positive  | hindbrain (rhombencephalon)[4/7] | midbrain (mesencephalon)[6/7]
+>Mouse|chr1:194624287-194626894 | element 646 | positive  | somite[7/13] | forebrain[6/13] | limb[8/13] | branchial arch[8/13] | nose[10/13] | facial mesenchyme[10/13]
+>Mouse|chr13:15756187-15757138 | element 652 | positive  | dorsal root ganglion[4/7] | cranial nerve[6/7] | heart[6/7]
+>Mouse|chr13:16102853-16104685 | element 653 | negative 
+>Mouse|chr17:44859063-44860738 | element 657 | positive  | branchial arch[3/6]
+>Mouse|chr8:91526103-91528596 | element 659 | negative 
+>Mouse|chr1:11016121-11018625 | element 663 | negative 
+>Mouse|chr1:12604893-12607403 | element 664 | negative 
+>Mouse|chr1:34046581-34049085 | element 665 | negative 
+>Mouse|chr1:84545385-84547922 | element 666 | negative 
+>Mouse|chr2:57194360-57196867 | element 667 | positive  | limb[5/6] | heart[3/6]
+>Mouse|chr2:65830185-65832690 | element 668 | negative 
+>Mouse|chr2:115693724-115696239 | element 669 | negative 
+>Mouse|chr2:125317131-125319646 | element 670 | negative 
+>Mouse|chr2:137678066-137680577 | element 671 | positive  | limb[3/4]
+>Mouse|chr2:166266120-166268627 | element 673 | positive  | neural tube[12/16] | limb[12/16]
+>Mouse|chr3:70115222-70117737 | element 675 | negative 
+>Mouse|chr4:89135610-89138124 | element 677 | negative 
+>Mouse|chr5:99796912-99799425 | element 678 | positive  | limb[7/8]
+>Mouse|chr5:102802274-102804782 | element 680 | positive  | limb[9/16]
+>Mouse|chr6:99836857-99839366 | element 681 | negative 
+>Mouse|chr6:101229924-101232500 | element 682 | negative 
+>Mouse|chr7:59223828-59226331 | element 684 | negative 
+>Mouse|chr7:115940121-115942627 | element 686 | positive  | forebrain[12/13] | limb[13/13] | branchial arch[10/13] | facial mesenchyme[12/13]
+>Mouse|chr8:8102246-8104749 | element 688 | negative 
+>Mouse|chr9:68642365-68644871 | element 690 | negative 
+>Mouse|chr10:36203387-36205893 | element 693 | positive  | midbrain (mesencephalon)[4/10] | forebrain[6/10] | limb[9/10] | nose[8/10]
+>Mouse|chr10:87330979-87333483 | element 694 | positive  | limb[6/10] | branchial arch[6/10] | nose[7/10] | tail[7/10] | facial mesenchyme[7/10] | other[7/10]
+>Mouse|chr10:98145716-98148223 | element 696 | negative 
+>Mouse|chr10:122205088-122207594 | element 697 | negative 
+>Mouse|chr11:24999105-25001616 | element 698 | negative 
+>Mouse|chr12:54764089-54766601 | element 701 | negative 
+>Mouse|chr15:35461972-35464559 | element 703 | positive  | limb[6/6]
+>Mouse|chr18:69068983-69071495 | element 708 | positive  | limb[6/6]
+>Mouse|chr1:54961825-54965420 | element 711 | negative 
+>Mouse|chr1:164004162-164007691 | element 712 | positive  | somite[4/4] | limb[4/4]
+>Mouse|chr1:164760588-164764098 | element 713 | positive  | neural tube[7/7] | hindbrain (rhombencephalon)[5/7] | midbrain (mesencephalon)[5/7] | dorsal root ganglion[5/7] | forebrain[5/7] | limb[4/7]
+>Mouse|chr2:33730850-33734359 | element 716 | positive  | limb[3/8] | trigeminal V (ganglion, cranial)[4/8]
+>Mouse|chr2:59435993-59439506 | element 717 | positive  | limb[9/9] | branchial arch[3/9]
+>Mouse|chr4:5723974-5727483 | element 718 | positive  | other[3/11]
+>Mouse|chr4:32388878-32392385 | element 720 | positive  | hindbrain (rhombencephalon)[5/11] | somite[6/11] | dorsal root ganglion[6/11] | trigeminal V (ganglion, cranial)[6/11] | cranial nerve[6/11]
+>Mouse|chr5:115938399-115941915 | element 723 | negative 
+>Mouse|chr7:117306323-117309835 | element 725 | positive  | dorsal root ganglion[8/17] | heart[9/17]
+>Mouse|chr7:75272248-75275752 | element 727 | negative 
+>Mouse|chr7:90960428-90963938 | element 729 | positive  | limb[12/11] | branchial arch[11/11] | facial mesenchyme[11/11] | other[11/11]
+>Mouse|chr9:109795468-109798972 | element 736 | negative 
+>Mouse|chr13:22064974-22068480 | element 743 | negative 
+>Mouse|chr13:60247042-60250560 | element 745 | positive  | neural tube[11/12] | hindbrain (rhombencephalon)[11/12] | somite[11/12] | midbrain (mesencephalon)[11/12] | forebrain[11/12] | limb[11/12] | nose[11/12]
+>Mouse|chr17:48125245-48128746 | element 751 | positive  | forebrain[3/5] | limb[4/5] | branchial arch[5/5] | facial mesenchyme[5/5]
+>Mouse|chr17:29599358-29603061 | element 755 | positive  | hindbrain (rhombencephalon)[8/17] | limb[5/17] | facial mesenchyme[8/17]
+>Mouse|chr10:79302606-79305114 | element 758 | negative 
+>Mouse|chr14:55615731-55616061 | element 771 | positive  | heart[7/7]
+>Mouse|chr4:64898269-64900771 | element 774 | positive  | hindbrain (rhombencephalon)[8/11] | midbrain (mesencephalon)[9/11] | forebrain[10/11]
+>Mouse|chr2:65500451-65502962 | element 777 | positive  | forebrain[5/5]
+>Mouse|chr11:117726724-117728992 | element 780 | positive  | eye[6/7]
+>Mouse|chr10:52461618-52464960 | element 782 | positive  | neural tube[7/9] | hindbrain (rhombencephalon)[7/9] | midbrain (mesencephalon)[7/9] | forebrain[7/9]
+>Mouse|chr9:54182839-54185364 | element 786 | negative 
+>Mouse|chr14:25468997-25471496 | element 794 | negative 
+>Mouse|chr12:72633255-72635754 | element 795 | positive  | forebrain[6/10]
+>Mouse|chr12:110746134-110749179 | element 799 | positive  | midbrain (mesencephalon)[5/5] | forebrain[5/5]
+>Mouse|chr6:3459886-3464285 | element 801 | negative 
+>Mouse|chr13:46727660-46731161 | element 813 | negative 
+>Mouse|chr4:54624098-54627608 | element 814 | positive  | neural tube[8/14] | forebrain[12/14]
+>Mouse|chr12:92916017-92919523 | element 815 | positive  | midbrain (mesencephalon)[5/10] | forebrain[6/10]
+>Mouse|chr16:91139390-91142515 | element 817 | positive  | neural tube[7/11] | midbrain (mesencephalon)[7/11] | forebrain[9/11]
+>Mouse|chr17:27000516-27003611 | element 824 | negative 
+>Mouse|chr5:12505539-12509076 | element 832 | positive  | branchial arch[10/12] | nose[10/12] | ear[10/12]
+>Mouse|chr8:59825977-59829933 | element 844 | negative 
+>Mouse|chr11:57741092-57744838 | element 849 | positive  | branchial arch[5/5] | heart[4/5]
+>Mouse|chr8:93262503-93266310 | element 871 | positive  | hindbrain (rhombencephalon)[7/7] | midbrain (mesencephalon)[7/7] | forebrain[7/7] | nose[5/7]
+>Mouse|chr11:96744632-96749165 | element 876 | positive  | hindbrain (rhombencephalon)[4/9] | midbrain (mesencephalon)[4/9] | forebrain[4/9] | cranial nerve[4/9] | facial mesenchyme[4/9]
+>Mouse|chr6:94703092-94707434 | element 878 | positive  | forebrain[6/7]
+>Mouse|chr18:61064203-61066875 | element 879 | positive  | dorsal root ganglion[7/13] | limb[5/13] | branchial arch[7/13] | trigeminal V (ganglion, cranial)[9/13] | cranial nerve[7/13]
+>Mouse|chr13:77685726-77688999 | element 881 | positive  | forebrain[5/7] | facial mesenchyme[7/7]
+>Mouse|chr3:99063702-99067487 | element 888 | positive  | branchial arch[3/6]
+>Mouse|chr7:122739352-122742708 | element 897 | negative 
+>Mouse|chr9:87943415-87945786 | element 898 | positive  | limb[12/13] | branchial arch[11/13]
+>Mouse|chr1:93859505-93862537 | element 901 | positive  | branchial arch[5/5]
+>Mouse|chr8:14071980-14074029 | element 907 | negative 
+>Mouse|chr5:122375617-122377688 | element 911 | negative 
+>Mouse|chr1:5011681-5014381 | element 912 | negative 
+>Mouse|chr2:160277041-160278323 | element 915 | negative 
+>Mouse|chr19:58493721-58494961 | element 916 | positive  | other[5/6]
+>Mouse|chr13:119524331-119526220 | element 917 | positive  | dorsal root ganglion[5/6] | limb[5/6]
+>Mouse|chr13:119594698-119595931 | element 918 | negative 
+>Mouse|chr8:26550660-26552575 | element 919 | positive  | limb[7/8] | facial mesenchyme[7/8]
+>Mouse|chr5:111684904-111686863 | element 920 | negative 
+>Mouse|chr5:112104093-112105425 | element 921 | positive  | facial mesenchyme[6/6] | other[6/6]
+>Mouse|chr13:48874993-48876671 | element 922 | positive  | hindbrain (rhombencephalon)[4/5] | midbrain (mesencephalon)[4/5] | branchial arch[5/5]
+>Mouse|chr2:160341430-160343002 | element 923 | negative 
+>Mouse|chr17:44754669-44756593 | element 924 | positive  | branchial arch[6/8] | facial mesenchyme[6/8]
+>Mouse|chr5:38456294-38457933 | element 928 | negative 
+>Mouse|chr3:127616644-127618219 | element 929 | negative 
+>Mouse|chr3:128221691-128224234 | element 930 | negative 
+>Mouse|chr14:24219932-24222183 | element 932 | negative 
+>Mouse|chr13:116476827-116478248 | element 933 | positive  | dorsal root ganglion[6/10] | cranial nerve[6/10] | nose[6/10]
+>Mouse|chr1:195275523-195276379 | element 935 | positive  | branchial arch[4/11]
+>Mouse|chr7:137569279-137570835 | element 938 | positive  | limb[8/9] | eye[8/9] | tail[7/9] | other[8/9]
+>Mouse|chr13:48661327-48662432 | element 939 | negative 
+>Mouse|chr4:154145214-154146454 | element 1088 | positive  | forebrain[4/7] | limb[7/7] | branchial arch[6/7]
+>Mouse|chr14:61171563-61174868 | element 1122 | positive  | forebrain[7/7]
+>Mouse|chrX:90313173-90316088 | element 1168 | negative 
+>Mouse|chrX:90352269-90354594 | element 1169 | negative 
+>Mouse|chr4:105100079-105101213 | element 1174 | negative 
